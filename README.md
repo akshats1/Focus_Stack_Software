@@ -25,7 +25,7 @@ python3 run.py
 ```
 
 ### Folder Sctructure 
-
+```bash
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
@@ -62,5 +62,5 @@ python3 run.py
     ├── run.py
     ├── settings.py
     └── utilities.py
-
+```
 6 directories, 30 files
